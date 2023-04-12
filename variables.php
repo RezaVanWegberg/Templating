@@ -1,5 +1,5 @@
 <?php 
 
-$variable = "test include"
+$variable = array("Banana", "Apple", "Lemon")
 
 ?>
