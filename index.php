@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+
     <?php include 'content.php'; ?>
+    
 </body>
 </html>
